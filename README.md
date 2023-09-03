@@ -1,5 +1,5 @@
 ### Olá! eu sou o Pablo 🖐️
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pablolima777)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-lima-pereira-61a846269/)
 
 
 ![Pablo GitHub stats](https://github-readme-stats.vercel.app/api?username=pablolima777&show_icons=true&theme=dracula)
